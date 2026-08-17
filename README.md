@@ -1,2 +1,2 @@
 # MedTetMesh
-Segmentation and keypoints transfer for volumetric medical shapes via functional maps
+Clinical information (e.g., segmentation labels and keypoints) transfer for volumetric medical shapes using volumetric functional maps
