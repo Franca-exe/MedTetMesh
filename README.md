@@ -6,7 +6,7 @@ This repository contains codes implementing different steps:
 - data preparation
 - matching pipeline + downstream tasks + evaluation
 
-Ready-to-use medical tetmesh will be available under 'Data' folder.
+Ready-to-use medical data will be available under 'Data' folder.
 
 #### Data preparation
 The following scripts are available:
